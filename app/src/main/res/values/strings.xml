@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyLBank</string>
+    <string name="dbs">DBS</string>
+    <string name="ocbc">OCBC</string>
+    <string name="uob">UOB</string>
+    <string name="english">English</string>
+    <string name="chinese">中文</string>
+    <string name="error">Error translating</string>
+    <string name="chiOCBC">华侨银行</string>
+    <string name="chiDBS">星展银行</string>
+    <string name="chiUOB">大华银行</string>
+    <string name="chiVisit">访问网站</string>
+    <string name="chiDial">联络银行</string>
+    <string name="visit">Visit Website</string>
+    <string name="contact">Contact Bank</string>
+    <string name="fav">Add to Favourites</string>
+    <string name="chiFav">添加到收藏夹</string>
+    <color name="red">#FF0000</color>
+</resources>
